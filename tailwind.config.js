@@ -5,6 +5,13 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    colors: {
+      'blue': '#c4e2ff'
+    },
+    fontFamily: {
+      body: ['Martel Sans', 'sans-serif'],
+      heading: ['OPTITimes-Roman', 'sans-serif']
+    }
   },
   plugins: [],
 }

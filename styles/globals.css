@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'OPTITimes-Roman';
+    src: 
+        url('/OPTITimes-Roman/OPTITimes-Roman.ttf.woff')
+}
